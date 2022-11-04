@@ -5,12 +5,9 @@ with open('attackipsid_input.txt', 'r') as f:
 
 #remove duplicates
 attackipsid = list(dict.fromkeys(attackipsid))
-#print list
-print(attackipsid)
 
 
 for id in attackipsid:
-	#18260860-1663963190
 	id_first_part_dec = id.split('-')[0]
 	id_second_part_dec = id.split('-')[1]
 	#convert id_first_part_dec to hex removing 0x

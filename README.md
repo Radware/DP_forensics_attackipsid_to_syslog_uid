@@ -1,5 +1,11 @@
 # DP_forensics_attackipsid_to_syslog_uid
 
+## Change log
+
+11/10/2022 Added conditions for different length attackipsid
+
+## How to run
+
 1. Enter the list of APSolute Vision AttackIpdID into the attackipsid_input.txt
 
 Example

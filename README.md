@@ -3,6 +3,7 @@
 ## Change log
 
 11/10/2022 Added conditions for different length attackipsid
+11/14/2022 Bugfix for ID where first part of the ID is 6 digits, the second part is 10 digits
 
 ## How to run
 

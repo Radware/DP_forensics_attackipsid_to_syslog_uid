@@ -7,6 +7,9 @@ with open('attackipsid_input.txt', 'r') as f:
 attackipsid = list(dict.fromkeys(attackipsid))
 
 
+print(f'DP Forensics attackipsid to syslogid v1.0 - by Egor Egorov')
+print(f'----------------------------------------------------------')
+
 for id in attackipsid:
     # if id is not empty
     if id:

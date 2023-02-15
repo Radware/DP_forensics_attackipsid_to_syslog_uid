@@ -6,6 +6,7 @@ v1.0<br>
 11/10/2022 Added conditions for different length attackipsid<br>
 11/14/2022 Bugfix for ID where first part of the ID is 6 digits, the second part is 10 digits<br>
 11/14/2022 Rebuild the script based on the length of the attackipsid<br>
+2/15/2023 Added main_python2.py adapted by by Michael Weinstein(Bloomberg)
 
 ## How to run
 

@@ -2,10 +2,10 @@
 
 ## Change log
 
-v1.0
-11/10/2022 Added conditions for different length attackipsid
-11/14/2022 Bugfix for ID where first part of the ID is 6 digits, the second part is 10 digits
-11/14/2022 Rebuild the script based on the length of the attackipsid
+v1.0<br>
+11/10/2022 Added conditions for different length attackipsid<br>
+11/14/2022 Bugfix for ID where first part of the ID is 6 digits, the second part is 10 digits<br>
+11/14/2022 Rebuild the script based on the length of the attackipsid<br>
 
 ## How to run
 
@@ -25,7 +25,13 @@ Example
 
 2. Run the script
 
-python main.py
+There are two versions of the script, python3 an python2, you can run either of them depending on the python version installed
+
+python3 main_python3.py
+
+or
+
+python main_python2.py
 
 
 As an output AttackIpsID will be translated to Syslog ID

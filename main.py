@@ -1,4 +1,4 @@
-# This script 
+# This script converts AttackIpsID to Syslog ID and vice versa
 
 
 def syslog_id_to_attackipsid(syslog_id):

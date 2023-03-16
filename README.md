@@ -44,7 +44,10 @@ FFFFFFFF-FFFF-FFFF-d913-0116632e1036<br>
 
 2. Run the script
 
-python main.py
+There are two versions of the script python2 and python3
+
+Run python main_python2.py OR python main_python3.py
+
 
 
 As an output AttackIpsID will be translated to Syslog ID
